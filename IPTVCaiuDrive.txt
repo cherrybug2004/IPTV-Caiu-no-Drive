@@ -1,0 +1,5 @@
+#EXTM3U 
+
+#PLAYLISTV: pltv-logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZA7grzQoC0fQ2xfH6Uv7LlNc6dE1qVM59pg&usqp=CAU.png" pltv-name= "Caiu no Drive - IPTV" 
+
+#EXTINF:-1 tvg-logo= "https://1.bp.blogspot.com/-W4xP95E5Sz4/YFUGM36fvPI/AAAAAAAAACU/9nAPeKqwmykvZxT8Kc8RCvNKyJ3g-jGyQCLcBGAsYHQ/s320/f17c6bc75afd040d47ec9448425957fa.png" group-title= "Series" pltv-subgroup "TFATWS - DUBLADO", Episódio 1 https://media.publit.io/file/TF4TW5-1x1-Dublado-by-CaiuDrive.mp4
